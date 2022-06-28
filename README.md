@@ -1,3 +1,3 @@
 # My_CodeWars_Solutions
 My solutions in codewars website: https://www.codewars.com/users/MechaArms
-/nPython Exercises
+<p>Python Exercises</p>
