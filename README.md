@@ -3,5 +3,5 @@
 ![](https://img.shields.io/badge/-Python-blue)
 
 My solutions in codewars website: https://www.codewars.com/users/MechaArms
-<p>Kotlin Exercises</p>
 <p>Python Exercises</p>
+<p>Kotlin Exercises</p>
