@@ -14,10 +14,10 @@ Examples
 
 fun century(year: Int): Int {
     var century = Math.ceil((year/100).toDouble())
-    var remain = year % 100;
+    var remain = year % 100
 
     if(remain > 0) {
-        century++;
+        century++
     }
     return century.toInt()
 }
