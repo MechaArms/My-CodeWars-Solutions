@@ -1,4 +1,4 @@
-# My_CodeWars_Solutions
+# My CodeWars Solutions
 ![](https://www.codewars.com/users/MechaArms/badges/micro)
 ![](https://img.shields.io/badge/-Python-blue)
 ![](https://img.shields.io/badge/-Kotlin-blueviolet)
