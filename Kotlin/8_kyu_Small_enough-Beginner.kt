@@ -4,10 +4,8 @@ You will be given an array and a limit value. You must check that all values in 
 You can assume all values in the array are numbers.
 */
 
-
 //My solution
 //===========
-
 fun smallEnough(a : IntArray, limit : Int) : Boolean {
     for(i in a){
         if(i > limit){
@@ -19,5 +17,4 @@ fun smallEnough(a : IntArray, limit : Int) : Boolean {
 
 //Best Solution
 //=============
-
 fun smallEnough(a: IntArray, limit: Int) = a.all { it <= limit }
