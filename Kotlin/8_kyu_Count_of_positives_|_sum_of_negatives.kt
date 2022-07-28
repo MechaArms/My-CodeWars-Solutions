@@ -26,6 +26,5 @@ fun countPositivesSumNegatives(input : Array<Int>?) : Array<Int> {
         }    
     }
     var answer = arrayOf<Int>(contP, contN)
-    return answer
-    
+    return answer    
 }
