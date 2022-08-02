@@ -9,7 +9,8 @@ for example, when given size is 3:
 for given example, the return value should be: [[1,2,3],[2,4,6],[3,6,9]]
 */
 
-//My solution:
+//My solution
+//===========
 
 package kata
 
@@ -25,7 +26,8 @@ object KataSolution {
     }
 }
 
-//Best solution
+//Best Solution
+//=============
 
 package kata
 
