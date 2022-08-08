@@ -17,11 +17,10 @@ package twotoone
 
 fun longest(s1:String, s2:String):String {
     val word = s1 + s2
-    
     val arr = word.toCharArray()
     val result = arr.distinct()
     
-    return return result.sorted().joinToString("")
+    return result.sorted().joinToString("")
 }
   
 //Best Solution
