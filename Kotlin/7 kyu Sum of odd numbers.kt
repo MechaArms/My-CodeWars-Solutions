@@ -13,4 +13,15 @@ Calculate the sum of the numbers in the nth row of this triangle (starting at in
 2 --> 3 + 5 = 8
 */
 
+//My Solution
+//===========
+
 fun rowSumOddNumbers(n: Int) = n * n * n
+
+//My Clever Solution
+//==================
+
+fun rowSumOddNumbers(n: Int): Int { // n = 2
+    var expo: Double = Math.pow(n.toDouble(), 3.0)
+    return expo.toInt() // returns 8
+}
