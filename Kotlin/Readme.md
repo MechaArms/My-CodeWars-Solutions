@@ -6,4 +6,4 @@ https://www.w3schools.com/kotlin/index.php
 
 https://www.tutorialkart.com/kotlin-tutorial/
 
-https://www.programiz.com/kotlin-programming/examples/vowel-consonant-count-string
+https://www.programiz.com/kotlin-programming/
