@@ -1,5 +1,6 @@
 # My CodeWars Solutions
 ![](https://www.codewars.com/users/MechaArms/badges/micro)
+![](https://img.shields.io/github/directory-file-count/MechaArms/My-CodeWars-Solutions/Kotlin?color=violet&label=Koltin%20-%20files&logo=Kotlin)
 ![](https://img.shields.io/badge/-Python-blue)
 ![](https://img.shields.io/badge/-Kotlin-blueviolet)
 
