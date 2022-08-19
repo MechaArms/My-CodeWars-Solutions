@@ -67,7 +67,7 @@ oops
 
 To make it easier, only letters, spaces. and the [backspace] function will be in the initial string.
 
-Good luck!
+Good luck! 
 '''
 
 from re import split
