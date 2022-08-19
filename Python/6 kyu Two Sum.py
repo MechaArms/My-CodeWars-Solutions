@@ -8,6 +8,13 @@ The input will always be valid (numbers will be an array of length 2 or greater,
 Based on: http://oj.leetcode.com/problems/two-sum/
 
 two_sum([1, 2, 3], 4) # returns [0, 2] or [2, 0]
+
+Example:
+
+Input: nums = [2,7,11,15], target = 9
+Output: [0,1]
+Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
+
 '''
 
 def two_sum(numbers, target):
