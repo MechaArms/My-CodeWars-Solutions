@@ -1,5 +1,5 @@
 # My CodeWars Solutions
-![](https://www.codewars.com/users/MechaArms/badges/micro)
+[![CodeWars Profile Badge](https://www.codewars.com/users/MechaArms/badges/micro)](https://www.codewars.com/users/MechaArms)
 [![Kotlin Badge](https://img.shields.io/badge/Kotlin-black?style=flat-square&logo=Kotlin)](https://kotlinlang.org)
 [![Python Badge](https://img.shields.io/badge/Python-0077B5?style=flat-square&logo=Python&logoColor=yellow)](https://www.python.org)
 
