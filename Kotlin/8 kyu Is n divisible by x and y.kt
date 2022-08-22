@@ -10,6 +10,7 @@ Examples:
 
 //My Result
 //=========
+
 fun isDivisible(n: Int, x: Int, y: Int): Boolean {
     if(n % x == 0 && n % y == 0){
         return true
@@ -20,4 +21,5 @@ fun isDivisible(n: Int, x: Int, y: Int): Boolean {
 
 //Best Result
 //===========
+
 fun isDivisible(n: Int, x: Int, y: Int) = n % x == 0 && n % y == 0
