@@ -1,5 +1,5 @@
 /*
-Simple, remove the spaces from the string, then return the resultant string.
+Simple, remove the spaces from the string, then return the resultant string. 
 */
 
 fun noSpace(x: String): String {
