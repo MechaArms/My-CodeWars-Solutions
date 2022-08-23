@@ -6,6 +6,7 @@ Modern Roman numerals are written by expressing each digit separately starting w
 Example:
 
 encode(1000) // should return "M"
+
 Help:
 
 Symbol    Value
@@ -16,6 +17,7 @@ L          50
 C          100
 D          500
 M          1,000
+
 Remember that there can't be more than 3 identical symbols in a row.
 
 More about roman numerals - http://en.wikipedia.org/wiki/Roman_numerals
