@@ -26,5 +26,5 @@ fun josephusSurvivor(n: Int, k: Int): Int {
 
 //Best Solution
 //=============
-
+ 
 fun josephusSurvivor(n: Int, k: Int): Int = (1..n).fold(1){ i, j -> (i + k) % j } + 1
