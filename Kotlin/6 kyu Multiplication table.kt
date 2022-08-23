@@ -1,6 +1,6 @@
 /*
 Your task, is to create NxN multiplication table, of size provided in parameter.
-
+ 
 for example, when given size is 3:
 
 1 2 3
