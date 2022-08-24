@@ -7,3 +7,5 @@ https://www.w3schools.com/kotlin/index.php
 https://www.tutorialkart.com/kotlin-tutorial/
 
 https://www.programiz.com/kotlin-programming/
+
+https://www.tutorialspoint.com/questions/category/kotlin
