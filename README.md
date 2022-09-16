@@ -6,3 +6,5 @@
 My solutions in codewars website: https://www.codewars.com/users/MechaArms
 <p>Python Exercises</p>
 <p>Kotlin Exercises</p>
+
+Note: The compliler in the HackerRank website was made in Kotlin version 1.5
