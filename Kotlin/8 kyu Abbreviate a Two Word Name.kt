@@ -10,7 +10,7 @@ Sam Harris => S.H
 patrick feeney => P.F
 */
 
-/My Solution
+//My Solution
 //===========
 
 fun abbrevName(name:String):String{
